@@ -1,0 +1,411 @@
+,Unnamed: 0,disease,workout
+0,0,Fungal infection,Morning walks (30 minutes)
+1,1,Fungal infection,"Gentle yoga (e.g., Cat-Cow, Child’s Pose, Forward Fold)"
+2,2,Fungal infection,Pilates for core strength
+3,3,Fungal infection,Seated resistance band exercises
+4,4,Fungal infection,Tai Chi or Qigong
+5,5,Fungal infection,Stretching routines (15-20 minutes daily)
+6,6,Fungal infection,"Home-based light dumbbell exercises (e.g., bicep curls, shoulder press)"
+7,7,Fungal infection,Indoor cycling with ventilation (20-30 minutes)
+8,8,Fungal infection,Deep breathing exercises / Meditation
+9,9,Fungal infection,Swimming in saltwater (only if medically cleared)
+10,10,Allergy,Indoor walking or treadmill walks (30 minutes)
+11,11,Allergy,Yoga with deep breathing (avoid incense or scented oils)
+12,12,Allergy,"Pilates in a clean, dust-free room"
+13,13,Allergy,"Bodyweight exercises at home (e.g., squats, lunges, push-ups)"
+14,14,Allergy,Low-impact aerobics indoors
+15,15,Allergy,Stationary biking in a well-ventilated room
+16,16,Allergy,Stretching routines (10-15 minutes daily)
+17,17,Allergy,Resistance band training indoors
+18,18,Allergy,Light strength training with dumbbells at home
+19,19,Allergy,Meditation and pranayama (in a clean-air environment)
+20,20,GERD,"Walking (20–30 minutes, upright posture)"
+21,21,GERD,Gentle yoga (avoid poses that compress the abdomen)
+22,22,GERD,Low-impact aerobics
+23,23,GERD,"Light cycling (keep body upright, avoid bending forward)"
+24,24,GERD,Seated upper-body strength training
+25,25,GERD,Pilates with modifications (no crunches or leg raises)
+26,26,GERD,Standing resistance band exercises
+27,27,GERD,Tai Chi or Qigong
+28,28,GERD,Stretching routines (avoid lying flat right after meals)
+29,29,GERD,Breathing exercises / Diaphragmatic breathing
+30,30,Chronic cholestasis,Walking at a comfortable pace (20–30 minutes)
+31,31,Chronic cholestasis,Gentle yoga (focus on relaxation and liver-supporting poses)
+32,32,Chronic cholestasis,Stretching exercises (10–15 minutes daily)
+33,33,Chronic cholestasis,Light resistance band workouts
+34,34,Chronic cholestasis,"Seated exercises (e.g., arm raises, leg extensions)"
+35,35,Chronic cholestasis,Tai Chi for stress relief and balance
+36,36,Chronic cholestasis,Deep breathing and meditation
+37,37,Chronic cholestasis,Slow cycling on a stationary bike
+38,38,Chronic cholestasis,Chair yoga or bed yoga (for severe fatigue)
+39,39,Chronic cholestasis,Water walking or gentle aquatic therapy (if accessible and approved)
+40,40,Drug Reaction,Walking indoors or in shaded areas (20–30 minutes)
+41,41,Drug Reaction,Gentle yoga (avoid sweating and friction on the skin)
+42,42,Drug Reaction,Stretching exercises (10–15 minutes)
+43,43,Drug Reaction,Breathing exercises / Meditation
+44,44,Drug Reaction,Seated resistance band workouts
+45,45,Drug Reaction,Chair yoga for low energy days
+46,46,Drug Reaction,Tai Chi for gentle full-body movement
+47,47,Drug Reaction,Light dumbbell exercises (upper body focus)
+48,48,Drug Reaction,Balance and posture training routines
+49,49,Drug Reaction,Slow indoor cycling (if energy permits)
+50,50,Peptic ulcer disease,Walking at a relaxed pace (20–30 minutes)
+51,51,Peptic ulcer disease,Gentle yoga (avoid core compression poses)
+52,52,Peptic ulcer disease,Light stretching routines (10–15 minutes daily)
+53,53,Peptic ulcer disease,Seated upper-body exercises
+54,54,Peptic ulcer disease,Tai Chi for stress reduction and body balance
+55,55,Peptic ulcer disease,Deep breathing and relaxation techniques
+56,56,Peptic ulcer disease,Resistance band workouts (avoid core-focused moves)
+57,57,Peptic ulcer disease,Low-impact indoor cycling (upright posture)
+58,58,Peptic ulcer disease,Chair yoga or floor yoga with modifications
+59,59,Peptic ulcer disease,Meditation and mindfulness sessions
+60,60,AIDS,Walking at a moderate pace (20–30 minutes)
+61,61,AIDS,Gentle yoga for flexibility and stress relief
+62,62,AIDS,Light resistance training (using dumbbells or bands)
+63,63,AIDS,"Stretching exercises (daily, 10–15 minutes)"
+64,64,AIDS,Tai Chi for balance and relaxation
+65,65,AIDS,Seated or chair exercises (for low energy days)
+66,66,AIDS,Stationary cycling at low intensity
+67,67,AIDS,Water aerobics or swimming (if immune system allows)
+68,68,AIDS,Breathing exercises / Meditation
+69,69,AIDS,Core stability exercises (with medical clearance)
+70,70,Diabetes,Brisk walking (30 minutes daily)
+71,71,Diabetes,Cycling (outdoor or stationary)
+72,72,Diabetes,Light to moderate strength training
+73,73,Diabetes,Stretching exercises (10–15 minutes)
+74,74,Diabetes,Swimming or water aerobics
+75,75,Diabetes,Yoga for stress reduction and flexibility
+76,76,Diabetes,Low-impact aerobics
+77,77,Diabetes,Resistance band exercises
+78,78,Diabetes,"Dancing (e.g., Zumba or freestyle)"
+79,79,Diabetes,Tai Chi for balance and glucose control
+80,80,Gastroenteritis,Short walks at a slow pace (10–15 minutes)
+81,81,Gastroenteritis,Gentle stretching routines
+82,82,Gastroenteritis,Deep breathing exercises
+83,83,Gastroenteritis,"Light yoga (focus on relaxation, avoid inversions)"
+84,84,Gastroenteritis,Seated leg and arm movements
+85,85,Gastroenteritis,Chair yoga or bed yoga (during low energy)
+86,86,Gastroenteritis,Tai Chi for gentle movement
+87,87,Gastroenteritis,Meditation for stress and recovery support
+88,88,Gastroenteritis,Neck and shoulder mobility exercises
+89,89,Gastroenteritis,Balance and posture correction routines
+90,90,Bronchial Asthma,Walking at a comfortable pace (20–30 minutes)
+91,91,Bronchial Asthma,"Swimming (warm water, avoid chlorinated pools if sensitive)"
+92,92,Bronchial Asthma,Yoga with controlled breathing (avoid intense poses)
+93,93,Bronchial Asthma,"Breathing exercises (e.g., pursed-lip or diaphragmatic breathing)"
+94,94,Bronchial Asthma,Cycling (preferably stationary and in a clean-air environment)
+95,95,Bronchial Asthma,"Stretching exercises (daily, 10–15 minutes)"
+96,96,Bronchial Asthma,Tai Chi for lung expansion and relaxation
+97,97,Bronchial Asthma,Light resistance training with proper breathing technique
+98,98,Bronchial Asthma,Dancing at low to moderate intensity
+99,99,Bronchial Asthma,Elliptical machine at low resistance and pace
+100,100,Hypertension,Brisk walking (30 minutes daily)
+101,101,Hypertension,Cycling at moderate pace (outdoor or stationary)
+102,102,Hypertension,Swimming or water aerobics
+103,103,Hypertension,Low-impact aerobics
+104,104,Hypertension,Yoga with relaxation techniques
+105,105,Hypertension,"Stretching routines (daily, 10–15 minutes)"
+106,106,Hypertension,Resistance training with light weights
+107,107,Hypertension,Tai Chi for calm and circulation
+108,108,Hypertension,"Dancing (e.g., Zumba, freestyle at low intensity)"
+109,109,Hypertension,Breathing exercises / Meditation
+110,110,Migraine,Walking in fresh air (20–30 minutes)
+111,111,Migraine,Gentle yoga (focus on neck and shoulder relaxation)
+112,112,Migraine,Stretching exercises (especially upper body and spine)
+113,113,Migraine,Tai Chi for balance and calmness
+114,114,Migraine,Breathing exercises / Meditation
+115,115,Migraine,Light stationary cycling (avoid overexertion)
+116,116,Migraine,Swimming in warm water (if comfortable)
+117,117,Migraine,Chair yoga or restorative yoga
+118,118,Migraine,Low-impact aerobics (with proper hydration and breaks)
+119,119,Migraine,Progressive muscle relaxation exercises
+120,120,Cervical spondylosis,Neck stretching exercises (gentle side-to-side and up-down movements)
+121,121,Cervical spondylosis,Chin tucks (to strengthen neck and improve posture)
+122,122,Cervical spondylosis,Shoulder rolls and shrugs
+123,123,Cervical spondylosis,Wall push-ups (to strengthen upper body without neck strain)
+124,124,Cervical spondylosis,Seated neck isometric exercises
+125,125,Cervical spondylosis,Arm and shoulder mobility exercises
+126,126,Cervical spondylosis,"Upper back stretches (e.g., cat-cow pose in yoga)"
+127,127,Cervical spondylosis,Breathing exercises / Diaphragmatic breathing
+128,128,Cervical spondylosis,Walking with proper posture
+129,129,Cervical spondylosis,Resistance band exercises for upper back (avoid heavy lifting)
+130,130,Paralysis (brain hemorrhage),Passive range of motion exercises (assisted by caregiver or therapist)
+131,131,Paralysis (brain hemorrhage),"Bed mobility exercises (e.g., rolling side to side)"
+132,132,Paralysis (brain hemorrhage),Seated balance training
+133,133,Paralysis (brain hemorrhage),Assisted leg and arm lifts
+134,134,Paralysis (brain hemorrhage),Grip strengthening with soft therapy balls
+135,135,Paralysis (brain hemorrhage),Stretching exercises (to prevent stiffness and contractures)
+136,136,Paralysis (brain hemorrhage),Wheelchair mobility exercises (if applicable)
+137,137,Paralysis (brain hemorrhage),Breathing exercises / Chest expansion techniques
+138,138,Paralysis (brain hemorrhage),Standing with support (parallel bars or walker)
+139,139,Paralysis (brain hemorrhage),Guided physical therapy movements (customized per patient condition)
+140,140,Jaundice,"Slow walking (10–20 minutes, gradually increasing)"
+141,141,Jaundice,Gentle stretching routines
+142,142,Jaundice,Light yoga (avoid abdominal compression)
+143,143,Jaundice,Breathing exercises / Pranayama
+144,144,Jaundice,Seated leg and arm movements
+145,145,Jaundice,Tai Chi for balance and energy flow
+146,146,Jaundice,Chair yoga (for very low energy days)
+147,147,Jaundice,Relaxation techniques / Meditation
+148,148,Jaundice,Shoulder and neck mobility exercises
+149,149,Jaundice,Bed yoga or passive range of motion (during early recovery)
+150,150,Malaria,Short walks at a slow pace (10–20 minutes)
+151,151,Malaria,Gentle stretching exercises
+152,152,Malaria,Deep breathing exercises / Pranayama
+153,153,Malaria,Chair yoga or bed yoga (for initial recovery phase)
+154,154,Malaria,Light yoga (focus on relaxation and flexibility)
+155,155,Malaria,Seated leg and arm movements
+156,156,Malaria,Tai Chi for energy and coordination
+157,157,Malaria,Neck and shoulder rolls to relieve tension
+158,158,Malaria,Low-intensity cycling (only after regaining strength)
+159,159,Malaria,Meditation for stress reduction and immune support
+160,160,Chicken pox,"Short indoor walks (5–15 minutes, increase gradually)"
+161,161,Chicken pox,Gentle stretching exercises
+162,162,Chicken pox,Deep breathing exercises / Pranayama
+163,163,Chicken pox,Bed or chair yoga (during initial recovery)
+164,164,Chicken pox,Light yoga (avoid sweating and skin friction)
+165,165,Chicken pox,Seated arm and leg movements
+166,166,Chicken pox,Tai Chi for gentle full-body flow
+167,167,Chicken pox,Neck and shoulder rolls for mobility
+168,168,Chicken pox,Meditation for stress relief and healing
+169,169,Chicken pox,"Low-intensity balance exercises (e.g., heel-to-toe walking)"
+170,170,Dengue,"Slow walking (5–15 minutes, gradually increase)"
+171,171,Dengue,Gentle stretching exercises
+172,172,Dengue,Deep breathing exercises / Pranayama
+173,173,Dengue,Bed yoga or chair yoga (initial phase)
+174,174,Dengue,"Light yoga (focus on relaxation, avoid exertion)"
+175,175,Dengue,Seated leg and arm raises
+176,176,Dengue,"Tai Chi for slow, mindful movement"
+177,177,Dengue,Neck and shoulder mobility exercises
+178,178,Dengue,Meditation for stress and fatigue recovery
+179,179,Dengue,Light resistance band exercises (only after full recovery and with doctor’s approval)
+180,180,Typhoid,"Slow walking (10–20 minutes, gradually increasing)"
+181,181,Typhoid,Gentle stretching exercises
+182,182,Typhoid,Deep breathing exercises / Pranayama
+183,183,Typhoid,Chair yoga or bed yoga (early recovery)
+184,184,Typhoid,Light yoga for relaxation and circulation
+185,185,Typhoid,Seated arm and leg movements
+186,186,Typhoid,Tai Chi for gentle movement and balance
+187,187,Typhoid,Neck and shoulder rolls to relieve stiffness
+188,188,Typhoid,Meditation for stress and mental clarity
+189,189,Typhoid,Light resistance exercises (only after full recovery and with doctor’s guidance)
+190,190,hepatitis A,Slow walking (10–20 minutes)
+191,191,hepatitis A,Gentle stretching exercises
+192,192,hepatitis A,Chair yoga or bed yoga (during fatigue)
+193,193,hepatitis A,Light yoga (no abdominal strain)
+194,194,hepatitis A,Breathing exercises / Pranayama
+195,195,hepatitis A,Neck and shoulder rolls
+196,196,hepatitis A,Tai Chi for gentle movement
+197,197,hepatitis A,Seated leg and arm raises
+198,198,hepatitis A,Meditation for stress relief
+199,199,hepatitis A,Light resistance training (post-recovery)
+200,200,Hepatitis B,Brisk walking (if energy permits)
+201,201,Hepatitis B,Gentle yoga for relaxation
+202,202,Hepatitis B,Stretching routines (10–15 minutes)
+203,203,Hepatitis B,Breathing exercises / Pranayama
+204,204,Hepatitis B,Chair yoga (during fatigue)
+205,205,Hepatitis B,Tai Chi for circulation and balance
+206,206,Hepatitis B,Light bodyweight exercises
+207,207,Hepatitis B,Neck and shoulder mobility work
+208,208,Hepatitis B,Meditation and mindfulness
+209,209,Hepatitis B,Resistance band workouts (low intensity)
+210,210,Hepatitis C,Slow walking (15–30 minutes)
+211,211,Hepatitis C,Light yoga (avoid pressure on abdomen)
+212,212,Hepatitis C,Gentle stretching routines
+213,213,Hepatitis C,Tai Chi for low-impact movement
+214,214,Hepatitis C,Breathing exercises
+215,215,Hepatitis C,Seated or chair exercises
+216,216,Hepatitis C,Meditation for stress and healing
+217,217,Hepatitis C,Resistance band exercises (with doctor’s approval)
+218,218,Hepatitis C,Shoulder and back mobility drills
+219,219,Hepatitis C,Balance and coordination activities
+220,220,Hepatitis D,Slow walking (10–20 minutes)
+221,221,Hepatitis D,Breathing exercises
+222,222,Hepatitis D,Gentle stretching
+223,223,Hepatitis D,Chair yoga or bed yoga
+224,224,Hepatitis D,Tai Chi for stress relief
+225,225,Hepatitis D,Neck and upper back movements
+226,226,Hepatitis D,Light yoga (avoid core workouts)
+227,227,Hepatitis D,Seated leg and arm exercises
+228,228,Hepatitis D,Meditation
+229,229,Hepatitis D,Low-resistance band work (post-recovery)
+230,230,Hepatitis E,Slow-paced walking
+231,231,Hepatitis E,Deep breathing / Pranayama
+232,232,Hepatitis E,Gentle stretching exercises
+233,233,Hepatitis E,Chair or floor yoga
+234,234,Hepatitis E,Tai Chi or Qigong
+235,235,Hepatitis E,Neck and shoulder mobility drills
+236,236,Hepatitis E,Meditation and visualization
+237,237,Hepatitis E,Light upper-body exercises
+238,238,Hepatitis E,Resistance band stretching
+239,239,Hepatitis E,Balance and posture workouts
+240,240,Alcoholic hepatitis,Gentle walking (avoid overexertion)
+241,241,Alcoholic hepatitis,Light yoga (focus on detox and breath)
+242,242,Alcoholic hepatitis,Stretching exercises
+243,243,Alcoholic hepatitis,Breathing exercises / Meditation
+244,244,Alcoholic hepatitis,Chair exercises for strength
+245,245,Alcoholic hepatitis,Tai Chi for inner calm and blood flow
+246,246,Alcoholic hepatitis,Neck and spine mobility
+247,247,Alcoholic hepatitis,Resistance band stretching
+248,248,Alcoholic hepatitis,Seated dumbbell exercises (light weight)
+249,249,Alcoholic hepatitis,Posture correction routines
+250,250,Tuberculosis,"Walking (start slow, build endurance)"
+251,251,Tuberculosis,Breathing exercises / Diaphragmatic breathing
+252,252,Tuberculosis,Gentle yoga (to aid lung function)
+253,253,Tuberculosis,Stretching routines
+254,254,Tuberculosis,Chair exercises during fatigue
+255,255,Tuberculosis,Seated resistance training
+256,256,Tuberculosis,Tai Chi for breath and energy control
+257,257,Tuberculosis,Neck and chest opening poses
+258,258,Tuberculosis,Meditation for stress management
+259,259,Tuberculosis,Posture improvement drills
+260,260,Common Cold,Light walking (indoors if weather triggers cold)
+261,261,Common Cold,Stretching to relieve stiffness
+262,262,Common Cold,Breathing exercises / Steam inhalation techniques
+263,263,Common Cold,Gentle yoga (avoid inversions)
+264,264,Common Cold,Neck and upper back stretches
+265,265,Common Cold,Meditation and mindfulness
+266,266,Common Cold,Tai Chi or Qigong
+267,267,Common Cold,Shoulder rolls and mobility work
+268,268,Common Cold,Seated exercises (if feeling weak)
+269,269,Common Cold,Bed yoga or lying poses
+270,270,Pneumonia,Breathing exercises (pursed-lip and diaphragmatic)
+271,271,Pneumonia,"Short, slow walking sessions"
+272,272,Pneumonia,Seated arm and leg exercises
+273,273,Pneumonia,Stretching to relieve tension
+274,274,Pneumonia,Chair yoga or gentle floor yoga
+275,275,Pneumonia,Tai Chi for lung expansion
+276,276,Pneumonia,Shoulder and back mobility drills
+277,277,Pneumonia,Neck stretches and rolls
+278,278,Pneumonia,Light cycling (stationary)
+279,279,Pneumonia,Meditation and relaxation techniques
+280,280,Dimorphic hemmorhoids(piles),Walking (30 minutes daily)
+281,281,Dimorphic hemmorhoids(piles),Gentle yoga (avoid straining poses)
+282,282,Dimorphic hemmorhoids(piles),Pelvic floor exercises (Kegels)
+283,283,Dimorphic hemmorhoids(piles),Stretching exercises
+284,284,Dimorphic hemmorhoids(piles),Breathing and relaxation techniques
+285,285,Dimorphic hemmorhoids(piles),Leg elevation routines
+286,286,Dimorphic hemmorhoids(piles),Tai Chi for circulation
+287,287,Dimorphic hemmorhoids(piles),Seated upper-body workouts
+288,288,Dimorphic hemmorhoids(piles),Posture-focused exercises
+289,289,Dimorphic hemmorhoids(piles),Avoid heavy lifting and squatting
+290,290,Heart attack,Cardiac rehabilitation walking program
+291,291,Heart attack,Breathing exercises / Relaxation breathing
+292,292,Heart attack,Seated exercises with low intensity
+293,293,Heart attack,Stretching for flexibility and circulation
+294,294,Heart attack,Chair yoga (gentle and calming)
+295,295,Heart attack,Tai Chi for heart rate control
+296,296,Heart attack,Neck and shoulder mobility
+297,297,Heart attack,Light resistance band training
+298,298,Heart attack,Posture correction routines
+299,299,Heart attack,Meditation and stress relief exercises
+300,300,Varicose veins,Walking (promotes leg circulation)
+301,301,Varicose veins,Leg elevation and pumping exercises
+302,302,Varicose veins,"Calf raises (gentle, seated or standing)"
+303,303,Varicose veins,Ankle rotations and foot flexes
+304,304,Varicose veins,Yoga (focus on leg elevation and light movement)
+305,305,Varicose veins,"Cycling (stationary, low resistance)"
+306,306,Varicose veins,Swimming or aqua walking
+307,307,Varicose veins,Stretching for lower limbs
+308,308,Varicose veins,Tai Chi or light aerobics
+309,309,Varicose veins,Compression sock use during light workouts
+310,310,Hypothyroidism,Brisk walking (20–30 minutes daily)
+311,311,Hypothyroidism,Low-impact aerobics (to boost metabolism)
+312,312,Hypothyroidism,Light resistance training
+313,313,Hypothyroidism,Yoga (especially poses for thyroid stimulation)
+314,314,Hypothyroidism,Stretching exercises for flexibility
+315,315,Hypothyroidism,Breathing exercises / Pranayama
+316,316,Hypothyroidism,Pilates (for core strength and posture)
+317,317,Hypothyroidism,Swimming or aqua exercises
+318,318,Hypothyroidism,Tai Chi for stress reduction
+319,319,Hypothyroidism,Neck and shoulder mobility exercises
+320,320,Hyperthyroidism,Gentle walking (15–30 minutes)
+321,321,Hyperthyroidism,"Yoga with calming poses (e.g., forward bends)"
+322,322,Hyperthyroidism,Breathing exercises / Pranayama
+323,323,Hyperthyroidism,Stretching exercises for relaxation
+324,324,Hyperthyroidism,Tai Chi or Qigong (to balance energy)
+325,325,Hyperthyroidism,Resistance band exercises (moderate intensity)
+326,326,Hyperthyroidism,Seated exercises for fatigue days
+327,327,Hyperthyroidism,Meditation and mindfulness practices
+328,328,Hyperthyroidism,Swimming (to reduce strain on joints)
+329,329,Hyperthyroidism,Posture improvement routines
+330,330,Hypoglycemia,Brisk walking with snacks on hand
+331,331,Hypoglycemia,Moderate strength training (short sessions)
+332,332,Hypoglycemia,Stretching exercises to warm up and cool down
+333,333,Hypoglycemia,Yoga (light to moderate intensity)
+334,334,Hypoglycemia,Breathing exercises
+335,335,Hypoglycemia,Cycling (short and low intensity)
+336,336,Hypoglycemia,Seated resistance exercises
+337,337,Hypoglycemia,Tai Chi for slow energy release
+338,338,Hypoglycemia,"Dancing (light, feel-good movements)"
+339,339,Hypoglycemia,Always include pre/post workout snack to prevent sugar drops
+340,340,Osteoarthristis,"Walking (low-impact, on flat surfaces)"
+341,341,Osteoarthristis,Swimming or aqua aerobics (low joint stress)
+342,342,Osteoarthristis,Chair yoga or gentle mat yoga
+343,343,Osteoarthristis,Stretching exercises (to maintain flexibility)
+344,344,Osteoarthristis,Tai Chi for balance and coordination
+345,345,Osteoarthristis,Cycling (stationary bike preferred)
+346,346,Osteoarthristis,Resistance band workouts (low resistance)
+347,347,Osteoarthristis,Isometric exercises for joint support
+348,348,Osteoarthristis,Seated leg and arm raises
+349,349,Osteoarthristis,Posture and gait training exercises
+350,350,Arthritis,"Walking (low-impact, flat surfaces)"
+351,351,Arthritis,Swimming or water aerobics (low joint pressure)
+352,352,Arthritis,Gentle stretching exercises
+353,353,Arthritis,Chair yoga or modified floor yoga
+354,354,Arthritis,Tai Chi for joint mobility and balance
+355,355,Arthritis,Resistance band exercises (light resistance)
+356,356,Arthritis,Cycling (stationary bike preferred)
+357,357,Arthritis,Seated leg and arm raises
+358,358,Arthritis,Isometric strength training (joint-safe)
+359,359,Arthritis,Hand and finger mobility exercises
+360,360,(vertigo) Paroymsal  Positional Vertigo,Epley maneuver (under medical supervision)
+361,361,(vertigo) Paroymsal  Positional Vertigo,Brandt-Daroff exercises (for vestibular rehab)
+362,362,(vertigo) Paroymsal  Positional Vertigo,Tai Chi for balance and body awareness
+363,363,(vertigo) Paroymsal  Positional Vertigo,Seated yoga (avoid head tilting)
+364,364,(vertigo) Paroymsal  Positional Vertigo,Slow neck and shoulder rolls
+365,365,(vertigo) Paroymsal  Positional Vertigo,Marching in place (for stability training)
+366,366,(vertigo) Paroymsal  Positional Vertigo,Seated leg lifts
+367,367,(vertigo) Paroymsal  Positional Vertigo,Wall-supported heel-to-toe walking
+368,368,(vertigo) Paroymsal  Positional Vertigo,Balance board or stability ball exercises (advanced recovery)
+369,369,(vertigo) Paroymsal  Positional Vertigo,Deep breathing exercises to reduce dizziness
+370,370,Acne,Walking (to boost circulation and reduce stress)
+371,371,Acne,Yoga (avoid excessive sweating and tight clothing)
+372,372,Acne,Breathing exercises / Pranayama
+373,373,Acne,Stretching to relieve tension and promote skin health
+374,374,Acne,Low-impact cardio (keep skin clean and dry)
+375,375,Acne,Resistance training (with hygiene precautions)
+376,376,Acne,Meditation for hormonal balance and stress reduction
+377,377,Acne,Face yoga (for circulation and detox)
+378,378,Acne,Swimming (if skin isn’t irritated by chlorine)
+379,379,Acne,Post-workout skincare and hydration
+380,380,Urinary tract infection,Walking (light to moderate intensity)
+381,381,Urinary tract infection,Gentle stretching for pelvic and lower back comfort
+382,382,Urinary tract infection,Breathing exercises for relaxation
+383,383,Urinary tract infection,Pelvic floor exercises (Kegels)
+384,384,Urinary tract infection,Yoga (avoid poses that pressure the bladder)
+385,385,Urinary tract infection,Tai Chi for low-intensity movement
+386,386,Urinary tract infection,Seated or lying leg raises
+387,387,Urinary tract infection,Meditation to reduce inflammation and stress
+388,388,Urinary tract infection,Hydration-focused cool-down routine
+389,389,Urinary tract infection,Avoid strenuous workouts until fully recovered
+390,390,Psoriasis,Walking (to support joint health and circulation)
+391,391,Psoriasis,Gentle yoga (avoid skin friction and hot environments)
+392,392,Psoriasis,"Stretching exercises (slow, deliberate movements)"
+393,393,Psoriasis,Swimming (in saltwater or gentle chlorine)
+394,394,Psoriasis,Breathing exercises / Pranayama
+395,395,Psoriasis,Tai Chi for mobility and stress control
+396,396,Psoriasis,Seated or modified resistance training
+397,397,Psoriasis,Meditation and mindfulness (to manage flare-ups)
+398,398,Psoriasis,Light cardio (keep skin cool and dry)
+399,399,Psoriasis,Avoid tight clothing and overheating during exercise
+400,400,Impetigo,"Walking (indoor or outdoor, avoid sweating)"
+401,401,Impetigo,Gentle stretching (avoid touching lesions)
+402,402,Impetigo,Seated exercises to limit skin contact
+403,403,Impetigo,Breathing exercises / Pranayama
+404,404,Impetigo,Chair yoga (very light and non-sweaty)
+405,405,Impetigo,Tai Chi for calm movement
+406,406,Impetigo,Meditation and stress reduction
+407,407,Impetigo,Posture correction drills
+408,408,Impetigo,Avoid gym/shared equipment during infection
+409,409,Impetigo,No high-intensity or contact workouts until fully healed
